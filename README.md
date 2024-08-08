@@ -4,6 +4,18 @@
 
 Ссылка на рабочий вариант сайта: https://lucky-selkie-902169.netlify.app
 
+login (Вход)  https://lucky-selkie-902169.netlify.app/#
+
+signup(Регистрация)  https://lucky-selkie-902169.netlify.app/#
+
+Мой чат (Список пользователей и переписка с ними)  https://lucky-selkie-902169.netlify.app/#
+
+404  https://lucky-selkie-902169.netlify.app/#
+
+500  https://lucky-selkie-902169.netlify.app/#
+
+
 Запуск проекта: npm run start
 
 Запуск для разработки: npm run dev
+
